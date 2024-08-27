@@ -1,3 +1,4 @@
+#https://raw.githubusercontent.com/fitra-ng/uniku-ip-blacklist/main/blackip.txt
 125.162.23.152
 84.247.144.192
 128.199.236.102
